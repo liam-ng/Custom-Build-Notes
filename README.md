@@ -192,3 +192,10 @@ Step 5-9
 
 Developer Settings
 ![image](https://github.com/liam-ng/Custom-Build-Notes/assets/90180576/ea93a9be-aadc-4865-a37b-b4e793ba6192)
+
+# PS
+- Potential Response optimization
+- - with parameters `Temperature` & `Nucleus Sampling`
+- Possible to remove sensitive data? or specific unwanted context?
+-  - with `Prompt` parameter but unreliable/ unstable response
+   - Input data cleaning would be key
