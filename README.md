@@ -1,5 +1,5 @@
 # Custom-Build-Notes
-Imported Snippet of my Obsidian Markdown Notes
+Imported Snippet of my Obsidian Markdown Notes, an analysis of Azure OpenAI Demo design provided by Microsoft
 
 Azure OpenAI Demo with Enterprise-owned Data
 ![image](https://github.com/liam-ng/Custom-Build-Notes/assets/90180576/fd897428-a9be-406a-bf28-5cdf41b4692d)
