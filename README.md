@@ -185,3 +185,10 @@ Step 5-9
     
 - `setup_clients()`: This is a before-app-serving function that sets up the clients for Azure Cognitive Search and Azure Blob Storage. It initializes the necessary client instances and configures the OpenAI SDK based on the deployment environment. Refers to the *appSetting* of App Service
 
+# Result
+![image](https://github.com/liam-ng/Custom-Build-Notes/assets/90180576/6dde04a8-9d6b-4f86-a505-803ed3d8c0db)
+
+![image](https://github.com/liam-ng/Custom-Build-Notes/assets/90180576/a972d61c-8d1e-4476-a906-4bc5d6623d74)
+
+Developer Settings
+![image](https://github.com/liam-ng/Custom-Build-Notes/assets/90180576/ea93a9be-aadc-4865-a37b-b4e793ba6192)
