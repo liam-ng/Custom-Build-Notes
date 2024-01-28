@@ -170,7 +170,8 @@ Step 5-9
 **Step 9: Generate the answer  **
 
 ### API flow
-![image](https://github.com/liam-ng/Custom-Build-Notes/assets/90180576/20f25dd3-9bd0-4945-90ce-0cb54b2651f1)
+![image](https://github.com/liam-ng/Custom-Build-Notes/assets/90180576/0536660a-3062-4284-ba4a-fb81f3d0726f)
+
 
 
 ### app/backend/app.py
